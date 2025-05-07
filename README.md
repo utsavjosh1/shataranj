@@ -10,11 +10,6 @@ Rust Chess Engine is a high-performance, fully-featured chess engine built in Ru
 - **Rust Safety**: Memory safety and concurrency powered by Rust.
 - **Customizable Depth**: Adjustable search depth for varying skill levels.
 
-## Getting Started
-
-### Prerequisites
-- **Rust**: Install Rust from [rust-lang.org](https://www.rust-lang.org/) if you haven’t already.
-
 ### Installation
 Clone the repository:
 ```bash
